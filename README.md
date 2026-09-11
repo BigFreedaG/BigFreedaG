@@ -12,7 +12,7 @@
 
   **My Goal This Cycle:** I want to advance my leadership and tech skills.
  
-  **Reach me at@**
+  **Reach me @**
  
   [My gmail account](https://www.linkedin.com/in/freeda-garcia-5a0966241/)
 
