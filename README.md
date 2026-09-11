@@ -1,7 +1,7 @@
 <div>
   <img src="https://github.com/BigFreedaG.png" width="150"/>
   
- <h1>#Hi, my name is Freeda G</h1>  
+ <h1>Hi, my name is Freeda G</h1>  
 </div>
   
    I'm Cycle 60 intern at i.cstars.
